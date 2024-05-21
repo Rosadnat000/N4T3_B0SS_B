@@ -1,4 +1,4 @@
-<title>￰ </title>
+Guys dont worry i will have an exploit soon i can do thiisssss
 
-<iframe id="innerFrame" name="innerFrame" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads" frameborder="0" allowfullscreen="" src="https://leekspin.com" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
-</iframe>
+
+Btw guys i will leave a tutorial because literally noone shows us how to use the HTTML and JAVA
